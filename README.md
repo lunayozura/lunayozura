@@ -17,5 +17,5 @@
     <img src="https://profile-counter.glitch.me/yozuraz/count.svg" alt="Visitor Count" />
 </p>
 <p align="center">
-    <img src="https://lanyard.cnrad.dev/api/1222239210128281791/" alt="User  Profile" />
+    <img src="https://lanyard.cnrad.dev/api/1324093524869644331/" alt="User  Profile" />
 </p>
